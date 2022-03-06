@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ### Hi there 👋
 
 <!--
@@ -15,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylee111)](https://github.com/anuraghazra/github-readme-stats)
